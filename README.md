@@ -1,7 +1,3 @@
-Sure, here's a README for your weather scraper:
-
----
-
 # Weather Scraper
 
 This Python script scrapes the current temperature in New York City from the National Weather Service website and displays it in both Fahrenheit and Celsius. It runs continuously, retrieving updated temperature data every minute.
@@ -26,10 +22,10 @@ This Python script scrapes the current temperature in New York City from the Nat
 
 1. Ensure you have Python installed on your system.
 
-2. Run the script `weather_scraper.py` using Python:
+2. Run the script `main.py` using Python:
 
    ```bash
-   python weather_scraper.py
+   python main.py
    ```
 
 3. The script will continuously print the current temperature in New York City in both Fahrenheit and Celsius. It will update every minute.
@@ -48,10 +44,3 @@ This Python script scrapes the current temperature in New York City from the Nat
 
 - mzander-1
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-Feel free to modify it further to suit your needs!
